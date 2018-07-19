@@ -1,2 +1,2 @@
 # liveChats
-All type of live chat available here.
+live chat available here.
